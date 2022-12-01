@@ -1,2 +1,2 @@
 # Projects
-Project made while studing in Trybes Full Stack Web Development School
+Project made while studing in Trybes Full Stack Web Development School using HTML, CSS, JS, React, Node, Express, MySQL, Docker, TS, MongoDB, Sequeliza, OOP, Heroku for deploy. 
